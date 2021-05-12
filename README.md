@@ -9,3 +9,5 @@ The function can be used to draw scale bars for both axes or only for one of the
 Please read the documentation inside the function.
 
 An example script using the function is provided as well in this repository.
+
+[![View matlab-plotAxesScaleBars on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://it.mathworks.com/matlabcentral/fileexchange/92145-matlab-plotaxesscalebars)
