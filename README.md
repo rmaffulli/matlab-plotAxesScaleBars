@@ -1,3 +1,4 @@
+[![View matlab-plotAxesScaleBars on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://it.mathworks.com/matlabcentral/fileexchange/92145-matlab-plotaxesscalebars)
 # What can I do with `plotAxesScaleBars.m`?
 <img src="UseExample.png" height="300">
 
@@ -10,4 +11,3 @@ Please read the documentation inside the function.
 
 An example script using the function is provided as well in this repository.
 
-[![View matlab-plotAxesScaleBars on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://it.mathworks.com/matlabcentral/fileexchange/92145-matlab-plotaxesscalebars)
