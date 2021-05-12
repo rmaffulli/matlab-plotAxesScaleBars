@@ -1,5 +1,5 @@
 # What can I do with `plotAxesScaleBars.m`?
-<img src="UseExample.png" height="400">
+<img src="UseExample.png" height="300">
 
 `plotAxesScaleBars` is a function that allows to draw scale bars for the X and Y axes in a MATLAB plot, instead of the default axes. This is often preferred to improve the readability of graphs.
 
