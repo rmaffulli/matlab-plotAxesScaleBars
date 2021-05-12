@@ -39,8 +39,10 @@ assert(ismember(whattoplot, ["xonly" "yonly" "bothaxes"]),...
 
 % remove current axes
 hold on
-set(gca,'visible','off')
-set(findall(gca, 'type', 'text'), 'visible', 'on')
+ax = gca;
+ax.Visible = 'off';
+ax.Title.Visible = 'on';
+
 % plot both x and y axes scale bars
 if whattoplot == "bothaxes"
     h = plot([origincoords(1)+xscale origincoords(1) origincoords(1)],...
